@@ -6,6 +6,10 @@
 2. Responses to the survey (2)
 3. A short pitch for your app
 
+## What do I turn in?
+
+**Add these materials to your project 3 repo, and dedicate a small portion of your presentation to it.**
+
 ## What you need to do:
 
 You'll need to conduct User research on a your chosen project 3 space:
