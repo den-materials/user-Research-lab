@@ -4,16 +4,28 @@
 
 1. Survey used
 2. Responses to the survey (2)
-3. A short pitch for your idea
+3. A short pitch for your app
 
 ## What you need to do:
 
 You'll need to conduct User research on a your chosen project 3 space:
 
-1. Pick the website/app/online service that could be improved
-2. Write at least 10 questions that could be used to analyze your site
+1. Find a competitor or similar service to your project 3
+2. Write at least 10 questions that could be used to analyze a competing product
 3. Use those questions to interview at least 2 people (non-classmates) about your site
-4. Write a quick summary/pitch (could be written, visual, mockup, etc) that describes - based on your research 5. what issues there are with your competitor, and how you can improve them.
+4. Write a quick summary/pitch (could be written, visual, mockup, etc) that describes - based on your research - what issues there are with your competitor, and how you can improve them.
+
+## Bonus Points/Alternative Routes
+
+1. Observe a user using a competing site
+2. Create a competitive analysis grid
+><details>
+    <summary>_What does that look like again?_</summary>
+    ![Competitive Analysis Grid](img/CAGrid.png)
+</details>
+3. Compare more than one competitor
+4. Interview more than 2 people
+
 
 ## Factors to consider in picking Users for testing
 
